@@ -1,4 +1,4 @@
-# by Yuhang Wu 5/30/19 8:00 am
+# by Yuhang Wu 5/30/19 7:59 am
 print "I will now count my chickens."
 
 print "Hens", 25 + 30 / 6
